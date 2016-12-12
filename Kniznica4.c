@@ -102,7 +102,7 @@ void vypis_vypozicku (KNIZNICA *lib,int i)
 	printf("%d.\n",i);	
 	printf("signatura :%s\n",lib->signatura);	 
 	printf("ISBN :%s\n",lib->ISBN);	 
-	printf("Nazov :%s\n",lib->nazov);	 
+	printf("Nazov  :%s\n",lib->nazov);	 
 	printf("Autori :%s\n",lib->autori);	 
 	printf("Datum :%s\n",lib->datum);	 
 	printf("Preukaz :%s\n",lib->preukaz);	 
